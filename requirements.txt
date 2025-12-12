@@ -1,0 +1,35 @@
+# Data
+pandas==2.0.3
+numpy==1.26.0
+
+# Machine Learning
+scikit-learn==1.3.2
+xgboost==1.7.6
+
+# Visualisation
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.18.0
+folium==0.14.0
+
+# API / HTTP
+requests==2.31.0
+sentinelhub==3.10.0
+
+# Images / CV
+opencv-python==4.8.0.76
+Pillow==10.1.0
+
+# Web App
+dash==2.16.1
+dash-bootstrap-components==1.3.1
+
+# Notifications / Email
+yagmail==0.14.261
+
+# Base de données
+SQLAlchemy==2.0.20
+
+# Extras
+joblib==1.3.2
+python-dotenv==1.0.0
